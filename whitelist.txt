@@ -1,0 +1,10 @@
+# Lean Script Whitelist
+# Add SteamIDs here, one per line
+# Lines starting with # are comments and will be ignored
+
+STEAM_0:1:641618313
+STEAM_0:1:857788185
+STEAM_0:1:242213935
+STEAM_0:1:243012253
+STEAM_0:0:146189279
+STEAM_0:1:51579628 
